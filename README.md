@@ -1,1 +1,1 @@
-# LeaningGit2
+# LearningGit2
